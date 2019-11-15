@@ -1,0 +1,20 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "News feed for FEC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dr-Wing/news.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dr-Wing/news/issues"
+  },
+  "homepage": "https://github.com/Dr-Wing/news#readme"
+}
