@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Dr-Wing/news/issues"
   },
-  "homepage": "https://github.com/Dr-Wing/news#readme"
+  "homepage": "https://github.com/Dr-Wing/news#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
 }
